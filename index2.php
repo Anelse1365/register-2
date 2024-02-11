@@ -96,7 +96,7 @@ if (isset($_SESSION['user_login'])) {
 						<div class="col-lg-6 col-md-7 col-12">
 							<!-- Top Contact -->
 							<ul class="top-contact">
-								<li><i class="fa fa-phone"></i>+880 1234 56789</li>
+								<li><i class="fa fa-phone"></i>+880 1234 55555</li>
 								<li><i class="fa fa-envelope"></i><a href="mailto:FanD@gmail.com">FanD@gmail.com</a></li>
 							</ul>
 							<!-- End Top Contact -->
@@ -158,7 +158,7 @@ if (isset($_SESSION['user_login'])) {
 														<li><a href="index.html">ทันตกรรมสำหรับเด็ก</a></li> <br>
 													
 													</ul>
-													<li><a href="productsuser.php">สินค้าFund<i ></i></a>
+													<li><a href="productsuser.php">สินค้าFunD<i ></i></a>
 													<ul class="dropdown">
 													
 													</ul>
