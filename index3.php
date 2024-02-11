@@ -1,8 +1,12 @@
 <!doctype html>
+<<<<<<< HEAD
 
     <!-- เทสสส -->
 
 
+=======
+test 16:20
+>>>>>>> b0fd8c8e944b1f23469d50a7f29e74a74e354060
 <html class="no-js" lang="zxx">
     <head>
         <!-- Meta Tags -->
